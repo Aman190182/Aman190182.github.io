@@ -1,4 +1,14 @@
-{
-  "pair": "Promo_Spend-Net_Sales",
-  "correlation": 0.91
-}
+[
+  {
+    "pair": "Promo_Spend-Avg_Basket",
+    "correlation": 0.03
+  },
+  {
+    "pair": "Promo_Spend-Net_Sales",
+    "correlation": -0.07
+  },
+  {
+    "pair": "Avg_Basket-Net_Sales",
+    "correlation": 0.6
+  }
+]
